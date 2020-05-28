@@ -4,7 +4,7 @@
 
   * Github Repo Link: https://github.com/egadames/hw12
 
-  * Live Link: https://still-springs-69398.herokuapp.com/
+  * Live Link: https://afternoon-earth-35344.herokuapp.com/ 
 
 ## Overview
 
