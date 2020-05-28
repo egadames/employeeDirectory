@@ -1,53 +1,53 @@
 # Unit 19 React Homework: Employee Directory
 
+  * Created by Erik Adames
+
+  * Github Repo Link: https://github.com/egadames/hw12
+
+  * Live Link: https://still-springs-69398.herokuapp.com/
+
 ## Overview
 
-This is an employee directory created  with React.  The user will be able to view my entire employee directory at once so that I have quick access to their information.
+This is an employee directory created  with React.  The user will be able to view my entire employee directory at once so that they can have quick access to their information. An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. This app is helpful as it allowd for the data to be sorted by all the columns except the imiage column and they can also search for an employee. 
 
-## User Story
+## Table of Contents 
 
-* As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Credits](#credits)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Question](#question)
 
-## Business Context
+## Installation
 
-An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
+  * A npm i needs to be performed before running the app to install needed libraries.
 
-## Acceptance Criteria
+## Usage 
 
-Given a table of random users, when the user loads the page, a table of employees should render. 
+  * The user must enter valid search or nothing will be filtered from the table. 
 
-The user should be able to:
+## Credits
 
-  * Sort the table by at least one category
+  * None
 
-  * Filter the users by at least one property.
+## License
 
-## Commit Early and Often
+![license](https://img.shields.io/badge/License-UCB-blue)
 
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
+## Contributing
 
-1. Your commit history is a signal to employers that you are actively working on projects and learning new skills
+  * please make a git pull request.
 
-2. Your commit history allows you to revert your code base in the event that you need to return to a previous state
+## Screenshots
 
-Follow these guidelines for committing:
+![app screenshot](https://github.com/egadames/hw12/blob/master/src/assets/img/screenshot.JPG)
 
-* Make single purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits
+## Questions
 
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history
+  * If there are any questions, please contact via the information below:
 
-* Don't commit half done work, for the sake of your collaborators (and your future self!)
+  * User GitHub email
 
-* Test your application before you commit to ensure functionality at every step in the development process
-
-We would like you to have well over 200 commits by graduation, so commit early and often!
-
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* the URL to the deployed application
-
-* the URL to the Github repository
-
+    * Email: egadames990@gmail.com
